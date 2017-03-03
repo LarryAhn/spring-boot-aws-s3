@@ -24,5 +24,4 @@
         <module>spring-boot-starter-aws-s3</module>
     </modules>
 
-
 </project>
