@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zuperztarahn</groupId>
+    <artifactId>spring-boot-aws-s3</artifactId>
+    <version>0.0.1</version>
+    <packaging>pom</packaging>
+
+    <name>spring-boot-aws-s3</name>
+
+    <developers>
+        <developer>
+            <id>ahn</id>
+            <name>Lawrence, Ahn</name>
+            <roles>
+                <role>Software Engineer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <modules>
+        <module>spring-boot-autoconfiguration-aws-s3</module>
+        <module>spring-boot-starter-aws-s3</module>
+    </modules>
+
+
+</project>
