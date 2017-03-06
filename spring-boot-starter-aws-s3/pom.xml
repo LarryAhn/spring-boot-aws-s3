@@ -5,7 +5,7 @@
 
     <groupId>com.zuperztarahn</groupId>
     <artifactId>spring-boot-starter-aws-s3</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-starter-aws-s3</name>
@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.zuperztarahn</groupId>
             <artifactId>spring-boot-autoconfiguration-aws-s3</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 

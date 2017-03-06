@@ -1,0 +1,9 @@
+{
+  "groups": [
+    {
+      "name": "amazon",
+      "type": "com.zuperztarahn.aws.s3.AmazonProperties",
+      "sourceType": "com.zuperztarahn.aws.s3.AmazonProperties"
+    }
+  ]
+}
