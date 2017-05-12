@@ -5,7 +5,7 @@
 
     <groupId>com.zuperztarahn</groupId>
     <artifactId>spring-boot-autoconfiguration-aws-s3</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-autoconfiguration-aws-s3</name>
@@ -33,11 +33,11 @@
         </dependency>
 
         <!-- Lombok -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.projectlombok</groupId>-->
+            <!--<artifactId>lombok</artifactId>-->
+            <!--<optional>true</optional>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>junit</groupId>
