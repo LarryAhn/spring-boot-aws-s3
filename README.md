@@ -28,9 +28,10 @@ amazon:
 ```
 
 ```java
-@Value("${amazon.s3.prefix-url}")
 
 {...}
+
+@Value("${amazon.s3.prefix-url}")
 
 private String prefixUrl;
 
@@ -75,6 +76,8 @@ public ResponseEntity<?> userProfilePhotoUpload(@RequestParam("file") MultipartF
     result.buildSuccess(HttpStatus.OK.value(), "success", prefixUrl + bucketName + "/profile/" + uploadFileName);
     return new ResponseEntity<>(result, HttpStatus.OK);
 }
+
+{...}
 
 ```
 
