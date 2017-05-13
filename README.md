@@ -2,7 +2,7 @@
 
 ```bash
 // git clone
-$ git clone https://github.com/LawrenceAhn/spring-log2slack && cd spring-log2slack
+$ git clone https://github.com/LawrenceAhn/spring-boot-aws-s3 && cd spring-boot-aws-s3
 $ mvn install
 ```
 
